@@ -1,0 +1,152 @@
+american beech,fagus grandifolia
+american black elderberry,sambucus canadensis
+american chestnut,castanea dentata
+american elm,ulmus americana
+american holly,ilex opaca
+american hophornbeam,ostrya virginiana
+american hornbeam,carpinus caroliniana
+american mountain ash,sorbus americana
+american persimmon,diospyros virginiana
+american plum,prunus americana
+american sweetgum,liquidambar styraciflua
+american sycamore,platanus occidentalis
+american witch-hazel,hamamelis virginiana
+baldcypress,taxodium distichum
+balsam fir,abies balsamea
+balsam poplar,populus balsamifera
+basswood,tilia americana
+bebb's willow,salix bebbiana
+bigleaf magnolia,magnolia macrophylla
+bigtooth aspen,populus grandidentata
+bitter cherry,prunus emarginata
+bitternut hickory,carya cordiformis
+black cherry,prunus serotina
+black cottonwood,populus trichocarpa
+black hawthorn,crataegus douglasii
+black locust,robinia pseudoacacia
+black oak,quercus velutina
+black spruce,picea mariana
+black tupelo,nyssa sylvatica
+black willow,salix nigra
+blue oak,quercus douglasii
+blue palo verde,parkinsonia florida
+blue spruce,picea pungens
+box elder,acer negundo
+bur oak,quercus macrocarpa
+butternut,juglans cinerea
+cabbage palmetto,sabal palmetto
+california bay,umbellularia californica
+california black oak,quercus kelloggii
+california buckeye,aesculus californica
+california fan palm,washingtonia filifera
+candlenut,aleurites moluccanus
+canyon live oak,quercus chrysolepis
+chestnut oak,quercus montana
+chinkapin oak,quercus muehlenbergii
+chokecherry,prunus virginiana
+coast live oak,quercus agrifolia
+coast redwood,sequoia sempervirens
+colorado pinyon,pinus edulis
+common douglas-fir,pseudotsuga menziesii
+common hackberry,celtis occidentalis
+common pawpaw,asimina triloba
+curlleaf mountain mahogany,cercocarpus ledifolius
+desert willow,chilopsis linearis
+eastern black walnut,juglans nigra
+eastern cottonwood,populus deltoides
+eastern hemlock,tsuga canadensis
+eastern redbud,cercis canadensis
+eastern redcedar,juniperus virginiana
+eastern white pine,pinus strobus
+engelmann spruce,picea engelmannii
+eurabbie,eucalyptus globulus
+fire cherry,prunus pensylvanica
+flowering dogwood,cornus florida
+fremont cottonwood,populus fremontii
+giant sequoia,sequoiadendron giganteum
+ginkgo,ginkgo biloba
+grand fir,abies grandis
+gray birch,betula populifolia
+hercules' club,zanthoxylum clava-herculis
+honey locust,gleditsia triacanthos
+honey mesquite,prosopis glandulosa
+jack pine,pinus banksiana
+kentucky coffeetree,gymnocladus dioicus
+knobcone pine,pinus attenuata
+lawson's cypress,chamaecyparis lawsoniana
+limber pine,pinus flexilis
+loblolly pine,pinus taeda
+lodgepole pine,pinus contorta
+longleaf pine,pinus palustris
+monterey cypress,cupressus macrocarpa
+mountain hemlock,tsuga mertensiana
+narrowleaf cottonwood,populus angustifolia
+northern catalpa,catalpa speciosa
+northern red oak,quercus rubra
+northern whitecedar,thuja occidentalis
+ohio buckeye,aesculus glabra
+oregon ash,fraxinus latifolia
+oregon oak,quercus garryana
+osage-orange,maclura pomifera
+pacific dogwood,cornus nuttallii
+pacific madrone,arbutus menziesii
+pacific yew,taxus brevifolia
+paper birch,betula papyrifera
+pecan,carya illinoinensis
+pignut hickory,carya glabra
+pin oak,quercus palustris
+pitch pine,pinus rigida
+ponderosa pine,pinus ponderosa
+red alder,alnus rubra
+red maple,acer rubrum
+red mulberry,morus rubra
+red pine,pinus resinosa
+red spruce,picea rubens
+rocky mountain bristlecone pine,pinus aristata
+rocky mountain juniper,juniperus scopulorum
+saguaro,carnegiea gigantea
+saskatoon,amelanchier alnifolia
+sassafras,sassafras albidum
+scouler's willow,salix scouleriana
+shagbark hickory,carya ovata
+shingle oak,quercus imbricaria
+shortleaf pine,pinus echinata
+silver maple,acer saccharinum
+singleleaf pinyon,pinus monophylla
+sitka spruce,picea sitchensis
+slippery elm,ulmus rubra
+smooth sumac,rhus glabra
+southern catalpa,catalpa bignonioides
+southern live oak,quercus virginiana
+southern magnolia,magnolia grandiflora
+southern red oak,quercus falcata
+subalpine fir,abies lasiocarpa
+sugar maple,acer saccharum
+sugar pine,pinus lambertiana
+swamp white oak,quercus bicolor
+sweet acacia,acacia farnesiana
+sweet birch,betula lenta
+tamarack,larix laricina
+tanoak,notholithocarpus densiflorus
+toyon,heteromeles arbutifolia
+tree-of-heaven,ailanthus altissima
+trembling aspen,populus tremuloides
+tulip tree,liriodendron tulipifera
+utah juniper,juniperus osteosperma
+velvet ash,fraxinus velutina
+virginia pine,pinus virginiana
+water birch,betula occidentalis
+waxy-fruited hawthorn,crataegus pruinosa
+western hemlock,tsuga heterophylla
+western larch,larix occidentalis
+western redcedar,thuja plicata
+western sycamore,platanus racemosa
+western white pine,pinus monticola
+white ash,fraxinus americana
+white fir,abies concolor
+white mulberry,morus alba
+white oak,quercus alba
+white spruce,picea glauca
+whitebark pine,pinus albicaulis
+yaupon holly,ilex vomitoria
+yellow birch,betula alleghaniensis
